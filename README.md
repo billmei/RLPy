@@ -2,7 +2,7 @@
 
 A Machine Learning package for Reinforcement Learning and Markov Decision Processes
 
-**This is *not* my work, the package is created by Alborz Geramifard, Robert H. Klein, and Jonathan P.**
+**This is *not* my work, the package is created by Alborz Geramifard, Robert H. Klein, and Jonathan P. How**
 
 ## Original BSD License
 
