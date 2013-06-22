@@ -1,6 +1,6 @@
 # RLPy
 
-A Machine Learning package for Reinforcement Learning and Markov Decision Processes
+The Reinforcement Learning Library for Education and Research: A machine learning package for reinforcement learning and markov decision processes.
 
 **This is *not* my work, the package is created by Alborz Geramifard, Robert H. Klein, and Jonathan P. How**
 
